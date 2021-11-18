@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29887d36-5055-41a8-9dbd-2dad06ff7799" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librowser/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librowser/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librowser/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librowser/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librowser/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librowser/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librowser/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librowser/build/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librowser/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librowser/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librowser/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librowser/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librowser/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librowser/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librowser/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librowser/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librowser/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librowser/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/librowser/static/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/librowser/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/librowser/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/librowser/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/librowser/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/librowser/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/librowser/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/librowser/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/librowser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/librowser/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/librowser/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/librowser/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/librowser/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/librowser/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/librowser/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/librowser/src/components/HelloWorld.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/librowser/src/css/normal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/librowser/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/librowser/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="215IQAMBzmN4GR6RbcJlYEwNDAo" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29887d36-5055-41a8-9dbd-2dad06ff7799" name="Changes" comment="" />
+      <created>1637224502418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637224502418</updated>
+      <workItem from="1637224503589" duration="335000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
